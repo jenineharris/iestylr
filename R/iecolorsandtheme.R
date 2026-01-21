@@ -55,7 +55,7 @@ scale_color_ie <- function(palette = "palette_diverging") {
 #'
 #' @param palette Character. One of "palette_diverging", "palette_sequential", "palette_categorical".
 #' @export
-scale_fill_ie <- function(palette = "slate") {
+scale_fill_ie <- function(palette = "palette_diverging") {
   ggplot2::scale_fill_manual(values = ie_palettes[[palette]])
 }
 
