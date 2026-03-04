@@ -38,6 +38,8 @@ Below is a brief summary of the functions available in *iestylr* :
 
     -   `theme_iedefault()`
 
+Note: The IE custom *ggplot2* theme uses the Calibri font, which is often not available on Mac without adding specifically to the ~/Library/Fonts folder.
+
 Below is an example of a simple bar graph with the categorical palette and custom theme applied:
 
 ``` r
