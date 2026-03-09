@@ -66,6 +66,6 @@ ggplot(d, aes(x = Program, y = Enrollment, fill = Program)) +
 
 ### Contact
 
-For questions or requesting additions to this package, please contact Jenine Harris at [harrisj\@wustl.edu]{.underline}.
+For questions or requesting additions to this package, please contact Jenine Harris at [harrisj\@wustl.edu].
 
 Special thanks to contributions from Mike Cahill and Audrey Lee!
